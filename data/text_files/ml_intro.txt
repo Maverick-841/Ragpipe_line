@@ -1,0 +1,4 @@
+Machine Learning Basics
+
+Machine learning is a part of AI.
+It helps systems learn from data.
